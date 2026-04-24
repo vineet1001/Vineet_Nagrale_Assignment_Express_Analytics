@@ -37,8 +37,8 @@ The LangGraph workflow consists of the following routing logic:
 
 **1. Clone the repository and navigate to the directory:**
 ```bash
-git clone <YOUR_GITHUB_URL>
-cd <YOUR_FOLDER_NAME>
+git clone https://github.com/vineet1001/Vineet_Nagrale_Assignment_Express_Analytics.git
+cd Vineet_Nagrale_Assignment_Express_Analytics
 ```
 **2. Create and activate a virtual environment:**
 
