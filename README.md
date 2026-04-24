@@ -8,7 +8,7 @@ This repository contains my submission for the **AI/ML Engineer Intern** take-ho
 
 The system goes beyond standard linear RAG by employing a self-corrective Agentic workflow.It ingests PyTorch documentation, evaluates its own retrieved context, rewrites queries if necessary, and includes two advanced fallback mechanisms: a Hallucination Checker and a Live Web Search via Tavily.
 
-## 🚀 Key Features
+##  Key Features
 
 - **Vector Database:** ChromaDB with HuggingFace `all-MiniLM-L6-v2` embeddings.
 - **Agentic Workflow:** Built with LangGraph StateGraphs.
